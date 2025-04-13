@@ -1,1 +1,67 @@
+<!DOOCTYPE html>
+
+<html lang ="en">
+
+<head>
+
+<title> Personal profile </title>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+</head>
+
+<body bgcolor ="#fff">
+
+<h1 align="center"><font color="#000" family="calibri"> My profile </font> </h1>
+
+<nav>
+<ul>
+<li> <a href= "index.html"> index</a> </li>
+<li> <a href= "#About me"> About Me </a> </li>
+<li> <a href= "#Hobbies"> Hobbies</a> </li>
+<li> <a href= "#contact"> contact</a> </li>
+</ul>
+</nav>
+
+<br>
+<table border="0" width="100%" bgcolor="tomato">
+<tr>
+<td width="75%" height="200px" valign="top">
+<h3 align="left"><font color="#000" family="calbri"> Biodata </font> </h2>
+
+<p align="justify"> <font family="calbri"> My Name is Ladeind Adeboye,am from Ogun State and was born in Lagos-State.
+I graduated from Lagos Sate university (Lasu) with a Bsc in Computer Science. presently  undergoing this 3MTT program currently software Development (Fullstalk). 
+
+<p> My hobbies are as follow: </p>
+<ol>
+<li> Coding </li>
+<li> Reading  </li>
+<li> Travelling </li>
+<li> Meeting new people </li>
+</ol>
+</font>
+</p>
+</td>
+
+<td width="2%"></td>
+<td></td>
+
+<td width="28%" valign="middle">
+<img src="Album 1 folder.gif " width="200px" height="200px" alt="">
+</td>
+</tr>
+</table>
+
+<footer>
+<p>
+<h3 align="left"> <font colo="#000" family="calbri"> Contact Information </h3>
+<font family="calbri"> For more information you can always contact through this email : <a href="mailto:your.email@example.com"> Click to Email </a>
+</font>
+</p>
+</footer>
+
+</body>
+
+</html>
 
